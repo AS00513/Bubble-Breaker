@@ -1,0 +1,10 @@
+﻿  Bubble Breaker.cpp
+Bubble Breaker.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwInit в функции _main.
+Bubble Breaker.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwTerminate в функции _main.
+Bubble Breaker.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwCreateWindow в функции _main.
+Bubble Breaker.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwWindowShouldClose в функции _main.
+Bubble Breaker.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwPollEvents в функции _main.
+Bubble Breaker.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwMakeContextCurrent в функции _main.
+Bubble Breaker.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwSwapBuffers в функции _main.
+D:\Homework\4_kurs\1_Sem\Labs\GIMS\Bubble Breaker\GL\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+D:\Homework\4_kurs\1_Sem\Labs\GIMS\Bubble Breaker\Debug\Bubble Breaker.exe : fatal error LNK1120: неразрешенных внешних элементов: 7

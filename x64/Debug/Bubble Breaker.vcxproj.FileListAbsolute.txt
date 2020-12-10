@@ -1,0 +1,2 @@
+D:\Homework\4_kurs\1_Sem\Labs\GIMS\Bubble Breaker\x64\Debug\Bubble Breaker.exe
+D:\Homework\4_kurs\1_Sem\Labs\GIMS\Bubble Breaker\x64\Debug\Bubble Breaker.pdb
